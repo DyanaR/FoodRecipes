@@ -2,6 +2,5 @@
 
 [![Screenshot](foodRecipesAPI.png)](https://dyanar.github.io/FoodRecipesAPI/)
 
-#Features
-Sources:
+## Sources
 https://www.themealdb.com/api.php
