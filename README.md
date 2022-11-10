@@ -1,6 +1,6 @@
 # Food Recipes
 
-![Screenshot](foodRecipesAPI.png)
+[![Screenshot](foodRecipesAPI.png)](https://dyanar.github.io/FoodRecipesAPI/)
 
 #Features
 Sources:
