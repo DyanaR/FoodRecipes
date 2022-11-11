@@ -2,7 +2,8 @@
 
 [![Screenshot](foodRecipesAPI.png)](https://dyanar.github.io/FoodRecipesAPI/)
 
-I made a wesbite using HTML and CSS to find meals for specific ingredients one might have. I used API from themealdb to generate meal recipes based on an ingredient entered into the search bar. Vanilla Javascript was used to make the API functionanl on the website.
+I made a wesbite using HTML and CSS to find meals for specific ingredients one might have. I used API from themealdb to generate meal recipes based on an ingredient entered into the search bar. Vanilla Javascript was used to make the API functionanl on the website. This porject was a follow along to improve my skills with API.
 
 ## Sources
 https://www.themealdb.com/api.php
+https://www.youtube.com/watch?v=opikz5x_1ak
